@@ -25,7 +25,7 @@ This project contains automated test scripts for testing login functionality usi
      -run.bat file : Double click on the run.bat file to run the project instantly
 
      -Via command prompt : Open command prompt and go to web-test directory.
-     ** run mvn test**
+     ** run mvn test
 
 ## Test Results
 
