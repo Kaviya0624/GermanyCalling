@@ -6,10 +6,10 @@ This project contains automated test scripts for testing login functionality usi
 
 ## Prerequisites
 
-•	Java JDK 8 or higher
-•	Maven 
-•	Eclipse
-•	Selenium Webdriver
+* Java JDK 8 or higher
+*	Maven 
+*	Eclipse
+*	Selenium Webdriver
 
  ## Setup Instructions
 
