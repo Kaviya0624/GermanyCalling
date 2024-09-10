@@ -22,10 +22,10 @@ This project contains automated test scripts for testing login functionality usi
 * Running Tests
      - Via testNG in IDE : Right-click on the testng.xml file and select Run as testNG Suite
 
-     -run.bat file : Double click on the run.bat file to run the project instantly
+     - run.bat file : Double click on the run.bat file to run the project instantly
 
-     -Via command prompt : Open command prompt and go to web-test directory.
-     ** run mvn test
+     - Via command prompt : Open command prompt and go to web-test directory.
+     **run mvn test**
 
 ## Test Results
 
