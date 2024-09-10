@@ -16,8 +16,8 @@ This project contains automated test scripts for testing login functionality usi
 * Clone the repository.
 
 * Import the Project.
-- Open the project in your IDE.
-- Ensure that the Maven dependencies are installed by updating the Maven project.
+Open the project in your IDE.
+Ensure that the Maven dependencies are installed by updating the Maven project.
 
 * Running Tests
 Via testNG in IDE:
