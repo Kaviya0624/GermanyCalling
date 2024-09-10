@@ -16,18 +16,17 @@ This project contains automated test scripts for testing login functionality usi
 * Clone the repository.
 
 * Import the Project.
-Open the project in your IDE.
-Ensure that the Maven dependencies are installed by updating the Maven project.
+- Open the project in your IDE.
+- Ensure that the Maven dependencies are installed by updating the Maven project.
 
 * Running Tests
-
-- Via testNG in IDE:
+Via testNG in IDE:
 Right-click on the testng.xml file and select Run as testNG Suite
 
-- run.bat file
+run.bat file
 Double click on the run.bat file to run the project instantly
 
-- Via command prompt
+Via command prompt
 Open command prompt and go to web-test directory.
 run mvn test
 
