@@ -21,13 +21,13 @@ Ensure that the Maven dependencies are installed by updating the Maven project.
 
 * Running Tests
 
-Via testNG in IDE:
+- Via testNG in IDE:
 Right-click on the testng.xml file and select Run as testNG Suite
 
-run.bat file
+- run.bat file
 Double click on the run.bat file to run the project instantly
 
-Via command prompt
+- Via command prompt
 Open command prompt and go to web-test directory.
 run mvn test
 
@@ -48,8 +48,8 @@ run mvn test
 
 ## Challenges Faced
 
-* Some elements like the cookies popup may appear inconsistently, which required extra exception handling in the test scripts and some times tests gets failed due to this
-*And when clicking login button after entering the credentials the page landing in url is sometimes changing its inconsistent so the test gets failed.when comparing expected url with actual url
+* Some elements like the cookies popup may appear inconsistently, which required extra exception handling in the test scripts and some times tests gets failed due to this.
+* And when clicking login button after entering the credentials the page landing in url is sometimes changing its inconsistent so the test gets failed.when comparing expected url with actual url
 
 ## Potential Improvements
 
